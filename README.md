@@ -28,3 +28,19 @@ https://your-best-budget-tracker.herokuapp.com/
 <img src = "public/images/screenshot_4.png">
 
 
+# License 
+
+
+![Language](https://img.shields.io/static/v1?label=JavaScript&message=language&color=brightgreen)
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+# Contact
+
+- GitHub: ydeek91
+- Email: ydeek91@yahoo.com
+
+
