@@ -22,10 +22,10 @@ https://your-best-budget-tracker.herokuapp.com/
 
 
 
-<img src = "public/images/screenshot_1.png">
-<img src = "public/images/screenshot_2.png">
-<img src = "public/images/screenshot_3.png">
-<img src = "public/images/screenshot_4.png">
+<img src = "public/images/Screenshot_1.png">
+<img src = "public/images/Screenshot_2.png">
+<img src = "public/images/Screenshot_3.png">
+<img src = "public/images/Screenshot_4.png">
 
 
 # License 
